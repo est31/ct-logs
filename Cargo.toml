@@ -9,4 +9,4 @@ homepage = "https://github.com/ctz/ct-logs"
 repository = "https://github.com/ctz/ct-logs"
 
 [dependencies]
-sct = "0.4"
+sct = { git = "https://github.com/briansmith/sct.rs.git", rev = "1d70fdae0d025efe0b0b185cb236a568d0cf1a5d" }
